@@ -1,9 +1,11 @@
 # HakifAI Aptos AI Agent
 
 <div align="center">
-  <img src="https://github.com/HakifAI/aptos-agent-fe/blob/5939aea4fc3436144f17b1bdd09e5438cc05670e/public/logo.svg" alt="HakifAI Logo" width="250"/>
+  <img src="https://github.com/HakifAI/aptos-agent-fe/blob/5939aea4fc3436144f17b1bdd09e5438cc05670e/public/logo.svg" alt="HakifAI Logo" width="200"/>
   
   **Conversational AI interface for Aptos blockchain. Execute DeFi operations, manage wallets, and trade tokens through natural language chat.**
+  
+  🌐 **[Try Live Demo](https://ai.hakifi.xyz)** | 📖 [Documentation](#-documentation) | 🚀 [Quick Start](#-quick-start)
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -183,9 +185,9 @@ NEXT_PUBLIC_JWT_SECRET="your-jwt-secret"
 
 ## 📚 Documentation
 
-- 📖 [AI Agent Documentation](../aptos-agent/README.md)
-- 🎨 [Frontend Documentation](../aptos-agent-fe/README.md)
-- ⚙️ [Backend Documentation](../aptos-agent-be/README.md)
+- 📖 [AI Agent Documentation](./aptos-agent/README.md)
+- 🎨 [Frontend Documentation](./aptos-agent-fe/README.md)
+- ⚙️ [Backend Documentation](./aptos-ai-agent-be/README.md)
 - 🔧 [API Documentation](http://localhost:3001/api/docs) (when running)
 
 ## 🧪 Development
@@ -242,6 +244,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support & Resources
 
+- 🌐 **[Live Product Website](https://ai.hakifi.xyz)** - Try the live demo
 - 📖 [Aptos Documentation](https://aptos.dev/)
 - 💬 [Aptos Discord](https://discord.gg/aptoslabs)
 - 🐛 [Report Issues](https://github.com/your-org/hakifAI-hackathon/issues)
