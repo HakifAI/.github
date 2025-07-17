@@ -1,7 +1,7 @@
 # HakifAI Aptos AI Agent
 
 <div align="center">
-  <img src="./aptos-agent-fe/public/logo.svg" alt="HakifAI Logo" width="200"/>
+  <img src="../aptos-agent-fe/public/logo.svg" alt="HakifAI Logo" width="200"/>
   
   **Conversational AI interface for Aptos blockchain. Execute DeFi operations, manage wallets, and trade tokens through natural language chat.**
   
